@@ -68,7 +68,9 @@ uvicorn app.main:app --reload --port 8001
 
 - 首页：`http://127.0.0.1:8001`
 - 接口文档：`http://127.0.0.1:8001/docs`
-![Uploading JDT42(($@`P`M(4S]B1I%AS.png…]()
+<img width="2535" height="1393" alt="image" src="https://github.com/user-attachments/assets/93e17569-88be-47aa-b74f-52af646c7605" />
+
+
 
 ## 环境变量
 
@@ -95,8 +97,4 @@ RETRIEVAL_K=3
 3. 展示真实返回模型名
 4. 增加流式输出
 
-## 简历描述参考
 
-可以这样写：
-
-“基于 FastAPI 与 MiniMax 实现 RAG 文档问答系统，支持文档上传、文本切块、embedding 向量检索与基于上下文的答案生成，并在前端展示来源片段。”
