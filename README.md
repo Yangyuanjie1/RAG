@@ -68,6 +68,7 @@ uvicorn app.main:app --reload --port 8001
 
 - 首页：`http://127.0.0.1:8001`
 - 接口文档：`http://127.0.0.1:8001/docs`
+![Uploading JDT42(($@`P`M(4S]B1I%AS.png…]()
 
 ## 环境变量
 
